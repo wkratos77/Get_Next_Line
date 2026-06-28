@@ -12,6 +12,14 @@ The goal is to implement a function capable of reading a file **one line at a ti
 
 ---
 
+## Quick Overview
+
+- **Built with:** C
+- **Focus:** Reading from file descriptors line by line using buffers, static variables, and dynamic memory.
+- **What I learned:** File handling, memory management, buffer logic, static storage, and edge-case handling.
+
+---
+
 ## 📌 Project Description
 
 Implement the function:
